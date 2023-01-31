@@ -1,4 +1,4 @@
-# Hello & Welcome ! <img align='right' src="https://media.giphy.com/media/fVc6G5zbFwxo2YGXIP/giphy.gif" width="130"></h2>
+# Hello & Welcome ! <img align='right' src="https://media.giphy.com/media/fVc6G5zbFwxo2YGXIP/giphy.gif" width="140"></h2>
 
 
 ### BAROINI Bendjade / Ben
@@ -15,7 +15,7 @@ _______ **Techs _______**
 - CSS    
 - Javascript    
 - PHP     
-- SQL     
+- SQL      <img align='right' src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="120"></h2>
 - VueJS   
 - Laravel 
 - Java (learning) <img src="https://media.giphy.com/media/zlcIBNopQj8Yx5QgpR/giphy.gif" width="50">
