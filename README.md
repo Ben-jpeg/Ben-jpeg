@@ -1,4 +1,4 @@
-### Hello & Welcome ! <img src="https://media.giphy.com/media/fVc6G5zbFwxo2YGXIP/giphy.gif" width="165"></h2>
+### Hello & Welcome ! <img src="https://media.giphy.com/media/fVc6G5zbFwxo2YGXIP/giphy.gif" width="125"></h2>
 
 
 <p>Web Developper</br>
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-BAROINI Bendjade / Ben
+### BAROINI Bendjade / Ben
 <p> ✨ Web Developper</br>
    😄 26 years old </br>
  🌱 Marseille (France)</br>
@@ -30,14 +30,14 @@ BAROINI Bendjade / Ben
 
 ---- Techs:
 
-- HTML     <img src="https://media.giphy.com/media/YshYTgWWi7NZgCOPGa/giphy.gif" width="20">
-- CSS     <img src="https://media.giphy.com/media/BY7rFObREdDeMgfraM/giphy.gif" width="20">
-- Javascript    <img src="https://media.giphy.com/media/GZu3NtMoA6Lp2alLKk/giphy.gif" width="20">
-- PHP     <img src="https://media.giphy.com/media/HmQeQ72ww4AHCr1kPP/giphy.gif" width="20">
-- SQL     <img src="https://media.giphy.com/media/V8y1y1FzxDETVUtQE4/giphy.gif" width="20">
-- VueJS     <img src="https://media.giphy.com/media/A49N5TtqGzs4ChGTL1/giphy.gif" width="20">
-- Laravel     <img src="https://media.giphy.com/media/l3BIJJuFwLb3LHorOX/giphy.gif" width="20">
-- Java (learning) <img src="https://media.giphy.com/media/zlcIBNopQj8Yx5QgpR/giphy.gif" width="20">
+- HTML     <img src="https://media.giphy.com/media/YshYTgWWi7NZgCOPGa/giphy.gif" width="50">
+- CSS     <img src="https://media.giphy.com/media/BY7rFObREdDeMgfraM/giphy.gif" width="50">
+- Javascript    <img src="https://media.giphy.com/media/GZu3NtMoA6Lp2alLKk/giphy.gif" width="50">
+- PHP     <img src="https://media.giphy.com/media/HmQeQ72ww4AHCr1kPP/giphy.gif" width="50">
+- SQL     <img src="https://media.giphy.com/media/V8y1y1FzxDETVUtQE4/giphy.gif" width="50">
+- VueJS     <img src="https://media.giphy.com/media/A49N5TtqGzs4ChGTL1/giphy.gif" width="50">
+- Laravel     <img src="https://media.giphy.com/media/l3BIJJuFwLb3LHorOX/giphy.gif" width="50">
+- Java (learning) <img src="https://media.giphy.com/media/zlcIBNopQj8Yx5QgpR/giphy.gif" width="50">
 
 
 
@@ -51,14 +51,11 @@ BAROINI Bendjade / Ben
 </br></br>
 
 --- Contacts
-linkedin  : <a href="https://www.linkedin.com/in/bendjade-baroini-0543481ba/">Linkedin</a>
+linkedin  : <a href="https://www.linkedin.com/in/bendjade-baroini-0543481ba/">Linkedin</a> </br>
    @      : b.baroini@gmail.com
 
 
 
-- 🔭 I’m currently working on my blog <img alt="Js" width="26px" 
-- 💬 Ask me about Comment apprendre français et je vous repond - "Shpas"
-- ⚡ Fun fact: WRYYYYYYY
 
 
 
