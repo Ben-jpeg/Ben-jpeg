@@ -1,10 +1,12 @@
-# Hello & Welcome ! <img align='right' src="https://media.giphy.com/media/fVc6G5zbFwxo2YGXIP/giphy.gif" width="140"></h2>
+# Hello & welcome ! <img align='right' src="https://media.giphy.com/media/fVc6G5zbFwxo2YGXIP/giphy.gif" width="140"></h2>
 
 
-### BAROINI Bendjade / Ben
-<p> ✨ Web Developper</br>
-   😄 26 years old </br>
- 🌱 Marseille (France)</br>
+### Who I Am ?
+
+<p> Bendjade BAROINI / **Ben**</br>
+   ✨   Web Developper</br>
+   😄   26 years old </br>
+ 🌱   Marseille (France)</br>
 </p>
 
 </br> </br>
