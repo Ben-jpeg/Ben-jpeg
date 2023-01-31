@@ -1,4 +1,4 @@
-### Hello & Welcome ! <img src="https://media.giphy.com/media/fVc6G5zbFwxo2YGXIP/giphy.gif" width="50"></h2>
+### Hello & Welcome ! <img src="https://media.giphy.com/media/fVc6G5zbFwxo2YGXIP/giphy.gif" width="165"></h2>
 
 
 <p>Web Developper</br>
@@ -30,14 +30,14 @@ BAROINI Bendjade / Ben
 
 ---- Techs:
 
-- HTML     <img src="https://media.giphy.com/media/YshYTgWWi7NZgCOPGa/giphy.gif" width="6">
-- CSS     <img src="https://media.giphy.com/media/BY7rFObREdDeMgfraM/giphy.gif" width="6">
-- Javascript    <img src="https://media.giphy.com/media/GZu3NtMoA6Lp2alLKk/giphy.gif" width="6">
-- PHP     <img src="https://media.giphy.com/media/HmQeQ72ww4AHCr1kPP/giphy.gif" width="6">
-- SQL     <img src="https://media.giphy.com/media/V8y1y1FzxDETVUtQE4/giphy.gif" width="6">
-- VueJS     <img src="https://media.giphy.com/media/A49N5TtqGzs4ChGTL1/giphy.gif" width="6">
-- Laravel     <img src="https://media.giphy.com/media/l3BIJJuFwLb3LHorOX/giphy.gif" width="6">
-- Java (learning) <img src="https://media.giphy.com/media/zlcIBNopQj8Yx5QgpR/giphy.gif" width="6">
+- HTML     <img src="https://media.giphy.com/media/YshYTgWWi7NZgCOPGa/giphy.gif" width="20">
+- CSS     <img src="https://media.giphy.com/media/BY7rFObREdDeMgfraM/giphy.gif" width="20">
+- Javascript    <img src="https://media.giphy.com/media/GZu3NtMoA6Lp2alLKk/giphy.gif" width="20">
+- PHP     <img src="https://media.giphy.com/media/HmQeQ72ww4AHCr1kPP/giphy.gif" width="20">
+- SQL     <img src="https://media.giphy.com/media/V8y1y1FzxDETVUtQE4/giphy.gif" width="20">
+- VueJS     <img src="https://media.giphy.com/media/A49N5TtqGzs4ChGTL1/giphy.gif" width="20">
+- Laravel     <img src="https://media.giphy.com/media/l3BIJJuFwLb3LHorOX/giphy.gif" width="20">
+- Java (learning) <img src="https://media.giphy.com/media/zlcIBNopQj8Yx5QgpR/giphy.gif" width="20">
 
 
 
