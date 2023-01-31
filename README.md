@@ -3,10 +3,10 @@
 
 ### Who I Am ?
 
-<p> Bendjade BAROINI / **Ben**</br>
+<p> Bendjade BAROINI / `Ben` </br>
    ✨   Web Developper</br>
    😄   26 years old </br>
- 🌱   Marseille (France)</br>
+ 🌱   Marseille (France) <img src="https://media.giphy.com/media/eJ3l67PMOv6EQMnfBO/giphy.gif" width="34"> </br>
 </p>
 
 </br> </br>
@@ -16,15 +16,15 @@ _______ **Techs _______**
 - HTML     
 - CSS    
 - Javascript    
-- PHP     
-- SQL      <img align='right' src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="120"></h2>
+- PHP      <img align='right' src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="120">
+- SQL      
 - VueJS   
 - Laravel 
 - Java (learning) <img src="https://media.giphy.com/media/zlcIBNopQj8Yx5QgpR/giphy.gif" width="50">
 
 </br>
 
-_______ **Environment _______**
+_______ **Environments _______**
 - Linux
 - Docker
 
