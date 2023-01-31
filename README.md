@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Cover](https://github.com/Ben-jpeg/Ben-jpeg/blob/main/img/me.jpg)
+![Cover](https://github.com/Ben-jpeg/Ben-jpeg/blb/main/img/me.jpg)
 
 <!--
 **Ben-jpeg/Ben-jpeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
