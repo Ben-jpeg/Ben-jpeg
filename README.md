@@ -1,11 +1,11 @@
-### Hello & Welcome ! <img src="https://media.giphy.com/media/fVc6G5zbFwxo2YGXIP/giphy.gif" width="125"></h2>
+# Hello & Welcome ! <img align='right' src="https://media.giphy.com/media/fVc6G5zbFwxo2YGXIP/giphy.gif" width="130"></h2>
 
 
-<p>Web Developper</br>
-Marseille (France) </br>
+### BAROINI Bendjade / Ben
+<p> ✨ Web Developper</br>
+   😄 26 years old </br>
+ 🌱 Marseille (France)</br>
 </p>
-![Cover](https://github.com/Ben-jpeg/Ben-jpeg/blb/main/img/me.jpg)
-
 <!--
 **Ben-jpeg/Ben-jpeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,14 +21,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### BAROINI Bendjade / Ben
-<p> ✨ Web Developper</br>
-   😄 26 years old </br>
- 🌱 Marseille (France)</br>
-</p>
 
-
----- Techs:
+---- **Techs:**
 
 - HTML     <img src="https://media.giphy.com/media/YshYTgWWi7NZgCOPGa/giphy.gif" width="50">
 - CSS     <img src="https://media.giphy.com/media/BY7rFObREdDeMgfraM/giphy.gif" width="50">
@@ -39,20 +33,22 @@ Here are some ideas to get you started:
 - Laravel     <img src="https://media.giphy.com/media/l3BIJJuFwLb3LHorOX/giphy.gif" width="50">
 - Java (learning) <img src="https://media.giphy.com/media/zlcIBNopQj8Yx5QgpR/giphy.gif" width="50">
 
-
-
 </br></br>
 
----- Environnments:
+---- **Environnments:**
 
 - Linux
 - Docker
-
+- 
 </br></br>
 
---- Contacts
-linkedin  : <a href="https://www.linkedin.com/in/bendjade-baroini-0543481ba/">Linkedin</a> </br>
-   @      : b.baroini@gmail.com
+--- **Contacts:**
+
+<a href="https://www.linkedin.com/in/bendjade-baroini-0543481ba/"><img src="https://media.giphy.com/media/jPK3EsIGS9f8YAp2Fa/giphy.gif" width="50"></a> </br> 
+[![GitHub Ben-jpeg](https://img.shields.io/github/followers/Ben?label=follow&style=social)](https://github.com/Ben-jpeg) </br>
+ 📫@      : b.baroini@gmail.com
+ 
+  <img src="https://media.giphy.com/media/fu8GmsXKFzgOjMgjLp/giphy.gif" width="110">
 
 
 
