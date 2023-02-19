@@ -5,11 +5,10 @@
  Bendjade BAROINI / `Ben` </br>
    ✨   Web Developper</br>
    😄   26 years old </br>
- 🌱   Marseille (France) <img src="https://media.giphy.com/media/eJ3l67PMOv6EQMnfBO/giphy.gif" width="34"> </br>
+ 🌱   Marseille (France)  </br>
 
 </br>
 _______ Techs _______
-
 - HTML     
 - CSS    
 - Javascript    
@@ -17,7 +16,7 @@ _______ Techs _______
 - SQL      
 - VueJS   
 - Laravel 
-- Java (learning) <img src="https://media.giphy.com/media/zlcIBNopQj8Yx5QgpR/giphy.gif" width="50">
+- Java (learning)
 </br>
 
 _______ Environments _______
@@ -26,7 +25,6 @@ _______ Environments _______
 </br>
 
 _______ Contacts _______
-
 <a href="https://www.linkedin.com/in/bendjade-baroini-0543481ba/"><img src="https://media.giphy.com/media/jPK3EsIGS9f8YAp2Fa/giphy.gif" width="50"></a>   
 [![GitHub Ben-jpeg](https://img.shields.io/github/followers/Ben?label=follow&style=social)](https://github.com/Ben-jpeg) </br>
  📫@      : b.baroini@gmail.com
