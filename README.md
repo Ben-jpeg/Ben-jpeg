@@ -5,8 +5,7 @@
  Bendjade BAROINI / `Ben` </br>
    ✨   Web Developper</br>
    😄   26 years old </br>
- 🌱   Marseille (France)  </br>
-
+ 🌱   Marseille (France) 
 </br>
 _______ Techs _______
 
