@@ -4,7 +4,7 @@
 
  Bendjade BAROINI / `Ben` </br>
    ✨   Web Developper</br>
-   😄   26 years old </br>
+   😄   27 years old </br>
  🌱   Marseille (France) 
 </br>
 _______ Techs _______
@@ -15,14 +15,18 @@ _______ Techs _______
 - PHP      <img align='right' src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="120">
 - SQL      
 - VueJS   
-- Laravel 
-- Java (learning)
+- Laravel
+- COBOL
+- JCL
+- PACBASE
+- Java (in progress)
 </br>
 
 _______ Environments _______
 
 - Linux
 - Docker
+- TSO / ISPF
 </br>
 
 _______ Contacts _______
