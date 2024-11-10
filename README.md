@@ -20,6 +20,9 @@ _______ Techs _______
 - JCL
 - PACBASE
 - Java (in progress)
+- COBOL
+- JCL
+- PacBASE
 </br>
 
 _______ Environments _______
