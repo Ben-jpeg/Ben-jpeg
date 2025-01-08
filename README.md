@@ -1,11 +1,11 @@
-# Hello & welcome ! <img align='right' src="https://media.giphy.com/media/fVc6G5zbFwxo2YGXIP/giphy.gif" width="140"></h2>
+# MAAARVELOUS ! <img align='right' src="https://media.giphy.com/media/fVc6G5zbFwxo2YGXIP/giphy.gif" width="140"></h2>
 
 ### Who am I ?
 
- Bendjade BAROINI / `Ben` </br>
+  `Ben_` </br>
    ✨   Web Developper</br>
-   😄   27 years old </br>
- 🌱   Marseille (France) 
+   😄   28 years old </br>
+ 🌱   MRS (France) 
 </br>
 _______ Techs _______
 
@@ -20,9 +20,6 @@ _______ Techs _______
 - JCL
 - PACBASE
 - Java (in progress)
-- COBOL
-- JCL
-- PacBASE
 </br>
 
 _______ Environments _______
@@ -34,7 +31,7 @@ _______ Environments _______
 
 _______ Contacts _______
 
-<a href="https://www.linkedin.com/in/bendjade-baroini-0543481ba/"><img src="https://media.giphy.com/media/jPK3EsIGS9f8YAp2Fa/giphy.gif" width="50"></a>   
+<!-- <a href="https://www.linkedin.com/in/bendjade-baroini-0543481ba/"><img src="https://media.giphy.com/media/jPK3EsIGS9f8YAp2Fa/giphy.gif" width="50"></a>   -->
 [![GitHub Ben-jpeg](https://img.shields.io/github/followers/Ben?label=follow&style=social)](https://github.com/Ben-jpeg) </br>
  📫@      : b.baroini@gmail.com
  
