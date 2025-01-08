@@ -24,7 +24,7 @@ _______ Techs _______
 
 _______ Environments _______
 
-- Linux     <img src="https://media.giphy.com/media/fu8GmsXKFzgOjMgjLp/giphy.gif" width="110">
+- Linux                                                                          <img src="https://media.giphy.com/media/fu8GmsXKFzgOjMgjLp/giphy.gif" width="110">
 - Docker
 - TSO / ISPF
 </br>
