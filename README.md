@@ -24,7 +24,7 @@ _______ Techs _______
 
 _______ Environments _______
 
-- Linux                                                                          <img src="https://media.giphy.com/media/fu8GmsXKFzgOjMgjLp/giphy.gif" width="110">
+- Linux                                       *                        *                    *       <img src="https://media.giphy.com/media/fu8GmsXKFzgOjMgjLp/giphy.gif" width="110">                                                                         
 - Docker
 - TSO / ISPF
 </br>
@@ -35,7 +35,7 @@ _______ Contacts _______
 [![GitHub Ben-jpeg](https://img.shields.io/github/followers/Ben?label=follow&style=social)](https://github.com/Ben-jpeg) </br>
  📫@      : b.baroini@gmail.com
  
-<!--  <img src="https://media.giphy.com/media/fu8GmsXKFzgOjMgjLp/giphy.gif" width="110"> -->
+   <img src="https://media.giphy.com/media/fu8GmsXKFzgOjMgjLp/giphy.gif" width="110"> 
 
 <!--
 **Ben-jpeg/Ben-jpeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
